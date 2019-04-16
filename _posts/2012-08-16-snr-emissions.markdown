@@ -2,7 +2,7 @@
 title: "Modeling Supernova Remnant Emissions"
 layout: post
 date: 2012-08-16 13:00
-tag: 
+tag: modeling
 image: /assets/images/snr.png
 headerImage: true
 projects: true
