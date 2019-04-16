@@ -1,5 +1,5 @@
 ---
-title: "Strategies to Prevent Post EMS Contact Cardiac Arrest and Improve Outcomes"
+title: "Strategies to Prevent Post-EMS Contact Cardiac Arrest and Improve Outcomes in Crashing Patients"
 layout: post
 date: 2018-09-06 12:00
 tag:
