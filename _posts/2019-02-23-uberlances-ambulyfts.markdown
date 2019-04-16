@@ -1,0 +1,40 @@
+---
+title: "Uberlances and Ambulyfts: Exploring Ridesharing Alternatives to Ambulance Transportation"
+layout: post
+date: 2019-02-23 10:30
+tag:
+- Visualization
+- Time Series
+- EMS
+- Clinical Care
+image: /assets/images/rideshare.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: tommy
+externalLink: false
+---
+
+---
+
+
+At the annual conference of the National Collegiate EMS Foundation, Dr. Leonard Weiss and I presented a foundation to alternative ambulance transportation which considers a collegiate case study and examines outcomes when low acuity patients are transported by ride sharing programs instead of ambulance. This lecture expands upon previous work by incorporating quality assurance/quality improvement (QA/QI) applications of basic statistical methodology to volunteer EMS agency data.  I interned with <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>, I explore the application of a modern time series forecasting method on ambulance demand in an urban environment. While there was existing foundation of forecasting similar types of demand (see here, here, and here), the goal of my work was to show that a newer model, (TBATS info here) could also be a suitable candidate for modeling ambulance demand using temporal data. 
+
+We found some positive results and a description of...
+ 
+---
+
+Note simulated data only.
+
+---
+
+## Shiny Screenshots
+
+The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
+
+## Ongoing and Future Work
+
+I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
+
