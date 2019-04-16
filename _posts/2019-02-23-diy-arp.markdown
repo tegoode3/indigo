@@ -1,5 +1,5 @@
 ---
-title: "DIY: Creating an Alcohol Refusal Protocol for Collegiate EMS Agencies"
+title: "DIY: Alcohol Refusal Protocols for Collegiate EMS Agencies"
 layout: post
 date: 2019-02-23 13:30
 tag:
