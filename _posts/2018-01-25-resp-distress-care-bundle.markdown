@@ -1,5 +1,5 @@
 ---
-title: "Assessing Impact of Education Bundle on Paramedic Performance for Respiratory Distress Patients"
+title: "Assessing an Education Bundle's Impact on Paramedic Treatment of Respiratory Distress Patients"
 layout: post
 date: 2018-01-25 12:00
 tag:
