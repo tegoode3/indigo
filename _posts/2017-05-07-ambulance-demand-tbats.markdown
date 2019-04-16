@@ -1,5 +1,5 @@
 ---
-title: "Forecasting Urban Ambulance Demand with a TBATS Model"
+title: "Forecasting Ambulance Demand with a TBATS Model"
 layout: post
 date: 2017-05-11 22:10
 tag:
