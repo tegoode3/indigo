@@ -5,7 +5,7 @@ date: 2019-01-10 10:30
 tag:
 - Clinical Care
 - EMS
-image: /assets/images/ncemsf.png
+image: /assets/images/ecmo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -40,4 +40,4 @@ I am excited to pass off the research baton to current undergraduate students wh
 
 ---
 
-Header image source: <a href="ncemsf.org">The National Collegiate Emergency Medical Service Foundation</a>.
+Header image source: <a href="https://www.intechopen.com/books/extracorporeal-membrane-oxygenation-advances-in-therapy/venoarterial-extracorporeal-membrane-oxygenation-in-refractory-cardiogenic-shock-and-cardiac-arrest">Marie-Eve Brunner, Carlo Banfi and Raphaël Giraud (September 14th 2016). Venoarterial Extracorporeal Membrane Oxygenation in Refractory Cardiogenic Shock and Cardiac Arrest, Extracorporeal Membrane Oxygenation - Advances in Therapy, Michael S. Firstenberg, IntechOpen, DOI: 10.5772/63578.</a>.
