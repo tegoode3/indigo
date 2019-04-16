@@ -19,23 +19,13 @@ externalLink: false
 ---
 
 
-For my undergraduate independent research project, advised by <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>, I explore the application of a modern time series forecasting method on ambulance demand in an urban environment. While there was existing foundation of forecasting similar types of demand (see here, here, and here), the goal of my work was to show that a newer model, (TBATS info here) could also be a suitable candidate for modeling ambulance demand using temporal data. 
-
-We found some positive results and a description of...
- 
----
-
-Put images here.
+During the summers of 2012, 2013, and 2014, I interned for <a href="https://space.mit.edu/~gea/">Dr. Glenn Allen</a> at the MIT Kavli Institute for Astrophysics and Space Research. Using the C-based <a href="https://space.mit.edu/asc/isis/">Interactive Spectral Interpretation System</a>, we sought to identify the physical processes responsible for gamma ray emission from Cassiopeia A, a supernova remnant roughly 11,000 light-years (3.4 kpc) from the Milky Way. Radio, X-ray, and gamma ray emission data from the Chandra X-Ray Observatory were fit to three physical models (a synchrotron emission model, an inverse Compton scattering model, and neutral pion decay model). We began development of a nonthermal bremsstrahlung model based on  <a href="https://arxiv.org/abs/0709.4049">prior work</a> which suggested nonthermal bremsstrahlung and synchrotron radiation in the 10-32 keV energy band. In addition to model development and model fitting, I also produced graphics to visualize model fits to the three types of emissions data. See <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Allen%2C+G+E">Dr. Allen's publications</a> for more details.
 
 ---
 
-## Slides
+## Visualizations
 
-The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
-
-## Ongoing and Future Work
-
-I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
+Below are two visualizations produced which fit an inverse Compton scattering model and a neutral pion decay model to radio, X-ray, and gamma ray emission data from the Chandra X-Ray Observatory. 
 
 ---
 
