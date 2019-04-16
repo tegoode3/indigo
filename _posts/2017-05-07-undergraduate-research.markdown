@@ -2,8 +2,8 @@
 title: "Forecasting Urban Ambulance Demand with a TBATS Model"
 layout: post
 date: 2017-05-11 22:10
-tag: forecasting, tbats, time series, ambulance
-image: https://sep.yimg.com/ca/I/yhst-20560677161525_2270_115552444
+tag: time series, ambulance, forecasting, tbats
+image: /assets/images/pgh_ems_m1.jpeg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
