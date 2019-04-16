@@ -1,5 +1,5 @@
 ---
-title: "DIY: Alcohol Refusal Policies for Collegiate EMS Agencies"
+title: "Creating, Implementing, and Evolving an Alcohol Refusal Policy for Intoxicated Patients"
 layout: post
 date: 2019-02-23 13:30
 tag:
