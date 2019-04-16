@@ -41,4 +41,4 @@ I am excited to pass off the research baton to current undergraduate students wh
 
 ---
 
-Header image source: <a href=http://www.code3firetrucks.com/co3pif11.html">Code Three Fire Trucks</a>.
+Header image source: <a href="http://www.code3firetrucks.com/co3pif11.html">Code Three Fire Trucks</a>.
