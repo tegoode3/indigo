@@ -39,4 +39,4 @@ I am excited to pass off the research baton to current undergraduate students wh
 
 ---
 
-Header image source: <a href="https://www.kisspng.com/png-supernova-explosion-clip-art-super-clipart-1372846/">Soumyajit via kisspng.com</a>.
+Header image source: <a href="https://www.kisspng.com/png-supernova-explosion-clip-art-super-clipart-1372846/">Soumyajit via KissPNG.com</a>.
