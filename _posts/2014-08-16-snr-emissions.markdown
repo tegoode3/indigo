@@ -25,7 +25,13 @@ During the summers of 2012, 2013, and 2014, I interned for <a href="https://spac
 
 ## Visualizations
 
-Below are two visualizations produced which fit an inverse Compton scattering model and a neutral pion decay model to radio, X-ray, and gamma ray emission data from the Chandra X-Ray Observatory. 
+Below are three of the visualizations I produced during the project. These three graphics visualize the fits of a synchrotron emissions model, an inverse Compton scattering model, and a neutral pion decay model to radio, X-ray, and gamma ray emission data from the Chandra X-Ray Observatory. 
+
+![Synchrotron Emission Model]({{site.base_url}}/assets/images/synchrotron_model.png)
+
+![Inverse Compton Scattering Model]({{site.base_url}}/assets/images/inverse_compton_model.png)
+
+![Neutral Pion Decay Model]({{site.base_url}}/assets/images/npd_model.png)
 
 ---
 
