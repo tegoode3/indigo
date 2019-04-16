@@ -1,7 +1,7 @@
 ---
 title: "Modeling Supernova Remnant Emissions"
 layout: post
-date: 2012-08-16 13:00
+date: 2014-08-16 15:30
 tag: 
 - Modeling
 - Supernova
