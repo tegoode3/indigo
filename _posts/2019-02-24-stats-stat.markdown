@@ -9,6 +9,7 @@ tag:
 - Time Series
 - Forecasting
 - EMS
+- Clinical Care
 image: /assets/images/ncemsf25.png
 headerImage: true
 projects: true
