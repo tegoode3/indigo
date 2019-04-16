@@ -7,7 +7,7 @@ tag:
 - R
 - Shiny
 - EMS
-image: /assets/images/cpr.jpg
+image: /assets/images/cpr.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
