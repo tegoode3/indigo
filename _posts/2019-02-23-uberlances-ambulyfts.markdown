@@ -38,6 +38,7 @@ The slides below were presented at Carnegie Mellon University’s annual undergr
 
 I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
 
-## Image Attribution
-Image attribution to <a href="http://www.cooneyconway.com/mesothelioma/risks-and-rewards-of-ridesharing"> Cooney and Conway's Guide to the Key Benefits of Ridesharing</a>.
+---
+
+Image source: <a href="http://www.cooneyconway.com/mesothelioma/risks-and-rewards-of-ridesharing"> Cooney and Conway's Guide to the Key Benefits of Ridesharing</a>.
 
