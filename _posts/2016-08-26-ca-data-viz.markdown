@@ -19,24 +19,21 @@ externalLink: false
 
 ---
 
-
-Over the summer of 2016, I interned with <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>, I explore the application of a modern time series forecasting method on ambulance demand in an urban environment. While there was existing foundation of forecasting similar types of demand (see here, here, and here), the goal of my work was to show that a newer model, (TBATS info here) could also be a suitable candidate for modeling ambulance demand using temporal data. 
-
-We found some positive results and a description of...
- 
----
-
-Note simulated data only.
+During the summer of 2016, I interned as a data analyst with <a href="https://www.emergencymedicine.pitt.edu/people/leonard-weiss">Dr. Leonard Weiss</a> at the University of Pittsburgh's <a href="https://www.shrs.pitt.edu/em">Department of Emergency Medicine</a>. Dr. Weiss'  <a href="https://www.ahajournals.org/action/doSearch?ContribAuthorStored=Weiss%2C+Leonard+S">research</a> is primarily in the field of prehospital cardiac arrest treatment. Using a large dataset of patient care reports from local paramedics and emergency medical technicians (EMTs), I identified and investigated metrics capable of enhancing understanding of emergency medical services' responses to cardiac arrests using traditional hypothesis testing, time series analysis, and autoregressive integrated moving average models. After identifying key metrics and trends, I presented the results presented to physicians, faculty, and researchers via an interactive application built using <a href="https://www.r-project.org/"R</a> and <a href="https://shiny.rstudio.com/">Shiny</a>. This approach allowed audience members to easily explore the visualized conclusions and trends themselves, rather than inundate members with static bar charts.
 
 ---
 
-## Shiny Screenshots
+## Application Screenshots
 
-The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
+While the interactive Shiny application contains protected health information and therefore cannot be shared publically, below are screenshots of the application using notional data. Please note that all instances and trends presented in the screenshots below are based on entirely simulated data and are not reflective of real patient care or EMS operations.
 
-## Ongoing and Future Work
+![Cardiac Arrest Outcomes]({{site.base_url}}/assets/images/ca_outcomes.png)
 
-I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
+![Cardiac Arrest Bystander CPR]({{site.base_url}}/assets/images/ca_bystander_cpr.png)
+
+![Cardiac Arrest Locations]({{site.base_url}}/assets/images/ca_location.png)
+
+![Cardiac Arrest Response Times]({{site.base_url}}/assets/images/ca_response_times.png)
 
 ---
 
