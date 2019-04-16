@@ -1,5 +1,5 @@
 ---
-title: "Uberlances and Ambulyfts: Exploring Ridesharing Alternatives to Ambulance Transportation"
+title: "Exploring Ridesharing Alternatives to Ambulance Transportation"
 layout: post
 date: 2019-02-23 10:30
 tag:
