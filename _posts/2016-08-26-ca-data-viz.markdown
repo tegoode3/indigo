@@ -1,5 +1,5 @@
 ---
-title: "Visualizing Cardiac Arrest Data from Prehospital Patient Care Reports"
+title: "Visualizing Prehospital Cardiac Arrest Data"
 layout: post
 date: 2016-08-28 16:45
 tag:
