@@ -40,5 +40,5 @@ I am excited to pass off the research baton to current undergraduate students wh
 
 ---
 
-Image source: <a href="http://www.cooneyconway.com/mesothelioma/risks-and-rewards-of-ridesharing"> Cooney and Conway's Guide to the Key Benefits of Ridesharing</a>.
+Header image source: <a href="http://www.cooneyconway.com/mesothelioma/risks-and-rewards-of-ridesharing"> Cooney and Conway's Guide to the Key Benefits of Ridesharing</a>.
 
