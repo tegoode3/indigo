@@ -1,5 +1,5 @@
 ---
-title: "Stats, Stat! Now With Quality Assurance/Quality Improvement Applications for Volunteer EMS Agencies"
+title: "Stats, Stat! Now With QA/QI Applications for Volunteer EMS Agencies"
 layout: post
 date: 2019-02-24 09:00
 tag:
@@ -22,7 +22,7 @@ externalLink: false
 ---
 
 
-At the annual conference of the National Collegiate EMS Foundation, I presented a similar talk to the 2018 lecture which won the NCEMSF Vomacka Student Speaker competition. This lecture expands upon previous work by incorporating QA/QI applications of basic statistical methodology to volunteer EMS agency data.  I interned with <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>, I explore the application of a modern time series forecasting method on ambulance demand in an urban environment. While there was existing foundation of forecasting similar types of demand (see here, here, and here), the goal of my work was to show that a newer model, (TBATS info here) could also be a suitable candidate for modeling ambulance demand using temporal data. 
+At the annual conference of the National Collegiate EMS Foundation, I presented a similar talk to the 2018 lecture which won the NCEMSF Vomacka Student Speaker competition. This lecture expands upon previous work by incorporating quality assurance/quality improvement (QA/QI) applications of basic statistical methodology to volunteer EMS agency data.  I interned with <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>, I explore the application of a modern time series forecasting method on ambulance demand in an urban environment. While there was existing foundation of forecasting similar types of demand (see here, here, and here), the goal of my work was to show that a newer model, (TBATS info here) could also be a suitable candidate for modeling ambulance demand using temporal data. 
 
 We found some positive results and a description of...
  
