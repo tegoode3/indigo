@@ -6,7 +6,7 @@ tag:
 - Visualization
 - EMS
 - Clinical Care
-image: /assets/images/rideshare.png
+image: /assets/images/uems_airpac.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -39,5 +39,5 @@ I am excited to pass off the research baton to current undergraduate students wh
 
 ---
 
-Header image source: <a href="http://www.cooneyconway.com/mesothelioma/risks-and-rewards-of-ridesharing"> Cooney and Conway's Guide to the Key Benefits of Ridesharing</a>.
+Header image source: Carnegie Mellon University Alcohol Intoxication Refusal Policy and Checklist.
 
