@@ -6,6 +6,7 @@ tag:
 - Modeling
 - Time Series
 - Forecasting
+- R
 - EMS
 image: /assets/images/pgh_ems_m1.jpeg
 headerImage: true
