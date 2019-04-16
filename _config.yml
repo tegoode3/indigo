@@ -54,12 +54,12 @@ github: tegoode3
 email: tegoode3@gmail.com
 
 authors:
-    johndoe:
+    tommy:
         name: Tom Goode
-        bio: Test Text
+        bio: Statistical Analyst, EMT, Data Nerd
         external-image: false
         picture: assets/images/headshot.jpg
-        twitter: johndoe
+       # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
