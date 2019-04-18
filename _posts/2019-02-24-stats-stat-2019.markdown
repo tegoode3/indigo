@@ -23,23 +23,15 @@ externalLink: false
 ---
 
 
-At the annual conference of the National Collegiate EMS Foundation, I presented a similar talk to the 2018 lecture which won the NCEMSF Vomacka Student Speaker competition. This lecture expands upon previous work by incorporating quality assurance/quality improvement (QA/QI) applications of basic statistical methodology to volunteer EMS agency data.  I interned with <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>, I explore the application of a modern time series forecasting method on ambulance demand in an urban environment. While there was existing foundation of forecasting similar types of demand (see here, here, and here), the goal of my work was to show that a newer model, (TBATS info here) could also be a suitable candidate for modeling ambulance demand using temporal data. 
+At the 2019 annual conference of the <a href="ncemsf.org">National Collegiate EMS Foundation</a>, I presented a similar talk to the 2018 lecture which won the Vomacka Student Speaker competition. This lecture expands upon previous work by incorporating quality assurance/quality improvement (QA/QI) applications of basic statistical methodology to volunteer EMS agency data. 
 
-We found some positive results and a description of...
- 
----
+Collegiate EMS agencies face a variety of common operational challenges, from staffing issues to underwhelming recruitment and retention rates. Low call volumes, high member turnover, and non-targeted recruitment strategies often exacerbate these issues. However, solutions are possible with the aid of an untapped organizational resource: data. Agencies often possess an unrealized amount of information, from trends in patient care reports to commonalities among members. This iteration of “Stats, stat!” broadened the analytic scope to examine how incorporating data analysis in quality improvement processes additionally benefits patient care, clinical performance, and resource allocation. This presentation overviewed basic statistical analysis which enables agency leaders to effectively recognize members struggling with clinical skills, identify members likely to leave an organization or applicants likely to join the agency, and forecast call volumes to lend quantitative evidence to that well known, anecdotal suspicion that “tonight will be a bad night.” The presentation highlighted the interconnectedness and diverse applications of these easily obtainable metrics, presents the results of these applications at <a href="https://www.cmuems.org/">Carnegie Mellon University EMS</a> and the <a href="http://pittsburghpa.gov/ems/">City of Pittsburgh EMS</a>, identified flaws and methodology improvements, and generalized these approaches to enable audience members to identify their own solutions based on agency-specific priorities and needs.
 
-Note simulated data only.
+Learning objectives for audience members included identifying useful metrics (primarily from organizational and patient care data), reviewing methodology to obtain these data (including harnessing existing ePCR reporting software), and analyzing real data to provide insight into improving performance in patient care, resource allocation and response operations, and member recruitment and retention. This presentation allowed audiences to see the operational and clinical advantages of integrating straightforward data analysis into their quality improvement processes. Specific examples of these benefits in the presentation included data-driven detection of clinical skills which require improvement or practice, methods for basic call volume prediction, and identification both of strong candidates applying to an agency and of agency members likely to leave an agency. Methodology was generalized to allow audience members to identify their own solutions based on agency-specific priorities and needs.
 
----
-
-## Shiny Screenshots
+## Presentation
 
 The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
-
-## Ongoing and Future Work
-
-I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
 
 ---
 
