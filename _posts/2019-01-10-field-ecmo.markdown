@@ -17,26 +17,15 @@ externalLink: false
 
 ---
 
+During the 10th Annual <a href="http://www.chp.edu/health-care-professionals/cme/other-cme/neonatal-pediatric-ecls-educational-conference">Neonatal and Pediatric ECMO Educational Conference</a> at UPMC Children's Hospital of Pittsburgh in August, 2018, myself, other emergency medical technicians from <a href="https://www.cmuems.org/">Carnegie Mellon University EMS</a>, paramedics from the <a href="http://pittsburghpa.gov/ems/">City of Pittsburgh EMS</a>, and <a href="https://www.emergencymedicine.pitt.edu/people/leonard-weiss">Dr. Leonard Weiss</a> simulated the use of prehospital extracorporeal membrane oxygenation (ECMO) on a manikin patient to demonstrate and discuss the viability of prehospital ECMO for refractory ventricular fibrillation cardiac arrest. This simulation ultimately led to a poster presentation at the annual meeting of the <a href="https://naemsp.org/">National Associatoin of EMS Physicians</a>. 
+
 Poster: Leonard S. Weiss, David Palmer, Jeremiah Escajeda, Mark Pinchalk, James Dlutowski, John Mooney, Adam Palmer, Scott Studebaker, Tom Goode, and Francis X. Guyette, “Creation, Training, and Simulation of a Field Extracorporeal Membrane Oxygenation (ECMO) Team”, National Association for Emergency Medical Physicians annual conference, Austin, Texas, 10 January 2019.
 
-Assisted and offered feedback on simulation along with team from CMU EMS.
-
-
-We found some positive results and a description of...
- 
 ---
 
-Note simulated data only.
+## Simulation Images
 
----
-
-## Shiny Screenshots
-
-The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
-
-## Ongoing and Future Work
-
-I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
+Simulation Images Here
 
 ---
 
