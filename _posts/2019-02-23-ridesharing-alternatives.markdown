@@ -1,5 +1,5 @@
 ---
-title: "Uberlances & Ambulyfts: Exploring Ridesharing Alternatives to Ambulance Transportation"
+title: "Uberlances & Ambulyfts: Exploring Ride-sharing Alternatives to Ambulance Transportation"
 layout: post
 date: 2019-02-23 10:30
 tag:
@@ -20,23 +20,17 @@ externalLink: false
 ---
 
 
-At the annual conference of the National Collegiate EMS Foundation, Dr. Leonard Weiss and I presented a foundation to alternative ambulance transportation which considers a collegiate case study and examines outcomes when low acuity patients are transported by ride sharing programs instead of ambulance. This lecture expands upon previous work by incorporating quality assurance/quality improvement (QA/QI) applications of basic statistical methodology to volunteer EMS agency data.  I interned with <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>, I explore the application of a modern time series forecasting method on ambulance demand in an urban environment. While there was existing foundation of forecasting similar types of demand (see here, here, and here), the goal of my work was to show that a newer model, (TBATS info here) could also be a suitable candidate for modeling ambulance demand using temporal data. 
+At the 2019 annual conference of the <a href="ncemsf.org">National Collegiate EMS Foundation</a>, <a href="https://www.emergencymedicine.pitt.edu/people/leonard-weiss">Dr. Leonard Weiss</a> and I presented a lecture which examined the practice of EMS crews arranging patient transport via ride-sharing services, instead of ambualnce transport, for low acuity patients.
 
-We found some positive results and a description of...
- 
----
+Collegiate EMS agencies routinely encounter patients who require evaluation at a higher level of care but whose condition may not warrant ambulance transport. However, these agencies may not have effective systems in place to facilitate alternative means of transport for low acuity calls. Non-transport collegiate agencies may be forced to request an ambulance from a local EMS provider in these cases, which can contribute to the strain of an already busy urban EMS system. Ride-sharing programs like Uber and Lyft offers a potential solution to allow for immediate, low-acuity patient transport while avoiding a significant cost to the patient and the loss of an available transporting EMS unit. We examined the clinical, operational, and policy decisions required to effectively facilitate patient transport via a taxi or ride-share based system through a 4-year study of a local collegiate EMS agency that routinely facilitates patient transport to hospitals and urgent care facilities via means alternative to ambulances. In addition to reviewing to the clinical data and medical decision-making required to determine the appropriateness of using ride-sharing services in lieu of an ambulance, this presentation sought to enable audience members to extrapolate and estimate the impact of incorporating ride-sharing services into their transport options.
 
-Note simulated data only.
+Learning objectives for audience members included re-evaluating an EMS crews' options for getting patients to definitive care, understanding the medical and clinical considerations required to allow patients to refuse ambulance transport and instead be transported via alternative means to a definitive care facility, and understanding the operational impact to both a collegiate EMS agency and a local ambulance provider through the intelligent use of ride-sharing services as an appropriate clinical transport alternative. This study used data from a local, non-transporting collegiate EMS agency and sought to provide audience members with a view of a real-world example of incorporating ride-sharing services as a viable transport alternative.  Importantly, extrapolating on the presented trends, viewers were able to estimate the impact of incorporating ride-sharing service transports for their own collegiate service as well as understand the importance for modern EMS even beyond the collegiate environment.
 
 ---
 
-## Shiny Screenshots
+## Presentation
 
-The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
-
-## Ongoing and Future Work
-
-I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
+Presentation Here
 
 ---
 
