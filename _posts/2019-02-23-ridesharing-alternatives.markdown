@@ -28,7 +28,7 @@ Learning objectives for audience members included re-evaluating an EMS crews' op
 
 ---
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/jCuehvQy4rR6IN" width=“560” height="315” frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/secret/jCuehvQy4rR6IN" title="Goode Weiss NCEMSF 2019" target="_blank">Goode Weiss NCEMSF 2019</a> </strong> from <strong><a href="https://www.slideshare.net/TomGoode10" target="_blank">Tom Goode</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/jCuehvQy4rR6IN" width="560" height="315" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/jCuehvQy4rR6IN" title="Goode Weiss NCEMSF 2019" target="_blank">Goode Weiss NCEMSF 2019</a> </strong> from <strong><a href="https://www.slideshare.net/TomGoode10" target="_blank">Tom Goode</a></strong> </div>
 
 ---
 
