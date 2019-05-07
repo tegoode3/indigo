@@ -27,19 +27,12 @@ Assisted with Data analysis.
 
 We found some positive results and a description of...
  
----
-
-Note simulated data only.
 
 ---
 
-## Shiny Screenshots
+![Paramedic Bundle Evaluation]({{site.base_url}}/assets/images/medic_bundle_eval.jpg)
 
-The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
-
-## Ongoing and Future Work
-
-I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
+![Paramedic Bundle Evaluation2]({{site.base_url}}/assets/images/medic_bundle_eval.pdf)
 
 ---
 
