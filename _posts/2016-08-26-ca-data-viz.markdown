@@ -23,8 +23,6 @@ During the summer of 2016, I interned as a data analyst with <a href="https://ww
 
 ---
 
-## Application Screenshots
-
 While the interactive Shiny application contains protected health information and therefore cannot be shared publically, below are screenshots of the application using notional data. Please note that all instances and trends presented in the screenshots below are based on entirely simulated data and are not reflective of real patient care or EMS operations.
 
 ![Cardiac Arrest Outcomes]({{site.base_url}}/assets/images/ca_outcomes.png)
