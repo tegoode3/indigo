@@ -23,9 +23,13 @@ Poster: Leonard S. Weiss, David Palmer, Jeremiah Escajeda, Mark Pinchalk, James 
 
 ---
 
-## Simulation Images
+Below are images of the simulation during the conference.
 
-Simulation Images Here
+![ECMO Crew]({{site.base_url}}/assets/images/ecmo_1.jpg)
+
+![ECMO Cannulation]({{site.base_url}}/assets/images/ecmo_2.jpg)
+
+![ECMO Manikin]({{site.base_url}}/assets/images/ecmo_3.jpg)
 
 ---
 
