@@ -26,7 +26,7 @@ I had the privilege of working as a data analysis intern with the City of Pittsb
 
 I assisted with a retrospective analysis of these "crashing patients" using electronic patient care reports and reviewed the effect of Bundles of Care education modles, seen by paramedics during training and continuing education, to determine which interventions were significantly correlated with improved outcomes. We identified several factors which can contribute to positive outcomes, including the application of physiological monitoring (including EKG and end-tidal CO2 monitoring), rapid assessment and management of "ABC" issues (including CPAP, BVM, or advanced airway interventions), early IV or IO access, maximal medical therapy, and patient movement to the ambulance only after the completino of these interventions. Additional, respiratory-specific and cardiac-specific interventions were also examined. Lastly, I created the visualizations and keynote (below) for Mark's presentation regarding this analysis at the Pennsylvania Emergency Health Services Council's 41st Annual Pennsylvania EMS Conference.
 
-* We excluded patients with complaints related to traumatic shock, as the generally accepted best intervention for these patients is simply "diesel therapy", or transporting the patient rapidly to a trauma center. 
+&ast; We excluded patients with complaints related to traumatic shock, as the generally accepted best intervention for these patients is simply "diesel therapy", or transporting the patient rapidly to a trauma center. 
 
 ---
 
