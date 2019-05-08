@@ -21,7 +21,9 @@ externalLink: false
 ---
 
 
-"How many emergencies are there going to be today?" "How many ambulances are needed to cover the city?" "How should I position those ambulances?"
+"How many emergencies are there going to be today?" 
+"How many ambulances are needed to cover the city?" 
+"Where should those ambulances stage and wait for a call?"
 
 These are common questions for any urban EMS chief, public safety manager, or emergency operations administrator. While no two days are identical and medical emergencies occur spontaneously, trends in existing public safety data can support the resource allocation of public safety assets. During my undergraduate studies in statistics at Carnegie Mellon University, I explored the application of a modern time series forecasting method on ambulance demand in an urban environment with my research advisor, <a href="http://www.stat.cmu.edu/~pfreeman/">Dr. Peter Freeman</a>. While existing models forecast similar types of ambulance demand, the goal of my work was to show that a newer model, (the Trigonometric Exponential Smoothing State Space Model with Box-Cox Transformation, ARMA Errors, Trend and Seasonal Components, or "TBATS" model) could also be a suitable candidate for modeling ambulance demand by virtue of the model's ability to model time series with multiple seasonalities (a prominent feature of ambulance demand time series data). 
 
