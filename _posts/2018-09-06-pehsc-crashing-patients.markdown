@@ -18,7 +18,7 @@ externalLink: false
 
 ---
 
-"Critical care is a type of care, not a location." Dr. Peter Safar
+"Critical care is a type of care, not a location." -Dr. Peter Safar
 
 An acutely ill, decompensating (or "crashing") patient must be gotten to a hospital as soon as possible, with interventions performed en route. There is no time to delay on scene; with these patients, we should "load and go." Right?
 
