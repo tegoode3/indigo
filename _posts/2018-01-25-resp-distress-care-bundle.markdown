@@ -30,4 +30,4 @@ Data analysis revealed a significant increase in all core performance measures f
 
 ---
 
-Header and body image source: <a href="https://naemsp.org/NAEMSP/media/Annual-Meeting-Presentations/2018/SAT-0800-1-Pinchalk.pdf">Mark Pinchalk, Mark Tomassi, Ronald Roth, Jeffery Reim Jr., James Dlutowski, Simon Taxel, and Thomas Goode, “Impact of the Implementation of a Critically Ill Patient Bundle of Care on the Performance of Key Medical Interventions for Respiratory Distress Patients” by Paramedics in the Field”, National Association for Emergency Medical Physicians annual conference, San Diego, California, 12 January 2018. </a>.
+Header and body image source: <a href="https://naemsp.org/NAEMSP/media/Annual-Meeting-Presentations/2018/SAT-0800-1-Pinchalk.pdf">Mark Pinchalk, Mark Tomassi, Ronald Roth, Jeffery Reim Jr., James Dlutowski, Simon Taxel, and Thomas Goode, “Impact of the Implementation of a Critically Ill Patient Bundle of Care on the Performance of Key Medical Interventions for Respiratory Distress Patients” by Paramedics in the Field”, National Association for Emergency Medical Physicians annual conference, San Diego, California, 12 January 2018. </a>
