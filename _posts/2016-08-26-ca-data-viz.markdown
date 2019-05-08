@@ -23,6 +23,8 @@ During the summer of 2016, I interned as a data analyst with <a href="https://ww
 
 ---
 
+*While the interactive Shiny application contains protected health information and therefore cannot be shared publically, below are screenshots of the application using notional data. Please note that all instances and trends presented in the screenshots below are based on synthesized data and are not reflective of real patient care or EMS operations.*
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/2TmKmdyGed3fc1" width="560" height="315" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/2TmKmdyGed3fc1" title="Goode Cardiac Arrest Visualizations" target="_blank">Goode Cardiac Arrest Visualizations</a> </strong> from <strong><a href="https://www.slideshare.net/TomGoode10" target="_blank">Tom Goode</a></strong> </div>
 
 ---
