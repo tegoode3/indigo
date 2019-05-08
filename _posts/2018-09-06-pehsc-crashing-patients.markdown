@@ -28,13 +28,7 @@ Note simulated data only.
 
 ---
 
-## Shiny Screenshots
-
-The slides below were presented at Carnegie Mellon University’s annual undergraduate research symposium, the Meeting of the Minds, and provide an overview of the results.
-
-## Ongoing and Future Work
-
-I am excited to pass off the research baton to current undergraduate students who are seeking to both improve upon this existing approach and incorporate geospatial information into additional models to better support ambulance managers in their resource allocation and operational planning.
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/bLFOViyXhVN7Ka" width="560" height="315" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/bLFOViyXhVN7Ka" title="Pinchalk PEHSC 2018" target="_blank">Pinchalk PEHSC 2018</a> </strong> from <strong><a href="https://www.slideshare.net/TomGoode10" target="_blank">Tom Goode</a></strong> </div>
 
 ---
 
