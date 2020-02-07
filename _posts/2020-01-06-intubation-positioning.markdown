@@ -23,7 +23,7 @@ Variable success rates have been reported for endotracheal intubation (ETI) by p
 
 I assisted in the data analysis and visualization of this study, which examined ETI attempts on about 400 patients between 2017 and 2019. Specifically, we retrospectively reviewed the electronic patient care reports documented after patient contacts and airway surveys completed by the 161 paramedics. 
 
-While limitations included the self-reporting of data, the analysis concluded that patients were successfully intubated at a significantly higher rate with the paramedic assuming a prone position when the patient was supine on the ground or floor. Patients were also successfully intubated at a significantly higher rate when the patient was inside, rather than outside, the ambulance. This contrasts with previous studies, which indicated a higher rate of success outside of an ambulance. This study has implications for paramedic training and education.
+While limitations included the self-reporting of data, the analysis concluded that patients were successfully intubated at a significantly higher rate with the paramedic assuming a prone position when the patient was supine on the ground or floor. Patients were also successfully intubated at a significantly higher rate when the patient was inside, rather than outside, the ambulance. This contrasts with previous studies, which indicated a higher rate of success outside of an ambulance. This study has implications for paramedic training and education, and its conclusions were presented in a posted at the National Association of Physicians annual conference in January, 2020.
 
 ---
 
