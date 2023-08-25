@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a statistical analyst at the <a href="https://www.rand.org">RAND Corporation</a> in Pittsburgh, Pennsylvania. I use a variety of statistical and machine learning <a href="https://www.rand.org/about/people/g/goode_thomas.html">methods</a> to provide policymakers with quality, objective analysis on a broad variety of homeland security and national security topics.</p>
+<p>I am a data scientist at the <a href="https://www.rand.org">RAND Corporation</a> in Pittsburgh, Pennsylvania. I use a variety of statistical and machine learning <a href="https://www.rand.org/about/people/g/goode_thomas.html">methods</a> to provide policymakers with quality, objective analysis on a broad variety of homeland security and national security topics.</p>
 
 <p>While earning my bachelor's and master's degrees in <a href="http://www.stat.cmu.edu/msp/curriculum">statistics at Carnegie Mellon University</a>, I conducted research at the intersection of statistics, prehospital medicine, and emergency medical operations; this included work to improve forecasting methodology for ambulance demand in urban environments, visualize complex cardiac arrest treatment data, and explore the impact of continuing education on patient care. See my <a href="https://www.linkedin.com/in/tom-goode/">LinkedIn profile</a> for a full list of my professional skills, certifications, and past experiences.</p>
 
