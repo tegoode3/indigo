@@ -1,6 +1,6 @@
 # main text of home
 name: Tom Goode
-bio: Statistical Analyst, EMT, Data Nerd
+bio: Data Scientist & EMS Researcher
 
 # twitter summary info
 description: A Goode Site
@@ -56,7 +56,7 @@ email: tegoode3@gmail.com
 authors:
     tommy:
         name: Tom Goode
-        bio: Statistical Analyst, EMT, Data Nerd
+        bio: Data Scientist & EMS Researcher
         external-image: false
         picture: assets/images/headshot.jpg
        # twitter: johndoe
